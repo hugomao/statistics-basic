@@ -1,1 +1,1 @@
-# Simple application of GA
+# Statistics basic
